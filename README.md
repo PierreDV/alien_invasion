@@ -1,6 +1,6 @@
 # Alien Invasion 
 
-A 'Space Invaders' clone based off the tutorial found in Eric Matthes' 'Python Crash Course'.
+A 'Space Invaders' clone based on the tutorial found in Eric Matthes' 'Python Crash Course'.
 
 ## Setup Instructions
 
